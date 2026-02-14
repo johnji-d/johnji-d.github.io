@@ -1,1 +1,2 @@
-# [Javadoc for CS2400 Project 1](https://johnji-d.github.io/JavadocProject1/)
+# johnji-d.github.io
+## [Javadoc for CS2400 Project 1](https://johnji-d.github.io/JavadocProject1/)
